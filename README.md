@@ -35,7 +35,16 @@ __This test will be italic__
 As kayne west said:
 
 > we're living the future so
+> the present is our past.
 
+\*literal asterisks\*
+
+\(literal asterisks\)
+
+\(literal asterisks\)
+
+- [x] @mentions
+- [ ] this is incomplete
 
 
 
