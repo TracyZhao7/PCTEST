@@ -28,7 +28,7 @@ __This test will be italic__
 
 ![NKUST logo](logo.png"高科大)
 
-<httos://elearning.nkust.edu.tw/mooc/index.pho>
+<httos://elearning.nkust.edu.tw/mooc/index.php>
 
 
 
