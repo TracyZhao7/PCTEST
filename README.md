@@ -41,7 +41,7 @@ As kayne west said:
 
 \(literal asterisks\)
 
-\(literal asterisks\)
+\{literal asterisks\}
 
 - [x] @mentions
 - [ ] this is incomplete
