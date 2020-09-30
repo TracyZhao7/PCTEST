@@ -33,9 +33,9 @@ __This test will be italic__
 [NKUST E-learning](https://elearning.nkust.edu.tw/mooc/index.php)
 
 As kayne west said:
-
 > we're living the future so
 > the present is our past.
+
 
 \*literal asterisks\*
 
@@ -47,10 +47,10 @@ As kayne west said:
 - [ ] this is incomplete
 
 '''javascript
-War x, y, z; //Statement 1
-x = 5;       //Statement 2
-y = 6;       //Statement 3
-z = x + y;   //Statement 4 
+var x;
+x = 6;
+document.getElementById("demo").innerHTML = x;
+
 
 
 
