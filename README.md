@@ -26,9 +26,7 @@ __This test will be italic__
     * Item 3a
     * Item 3b
 
-![nkust.logo](logo (1).png)
-
-![NKUST logo](logo (1).png"高科大")
+![nkust.logo](https://raw.githubusercontent.com/TracyZhao7/PCTEST/master/logo%20(1).png)
 
 <https://elearning.nkust.edu.tw/mooc/index.php>
 
