@@ -8,24 +8,21 @@
 `small zone`
 
 ```big zone
-1
-2
-3
+1 good
+2 good
+3 good
 ```
-
-
-
-
-
 
 *This test will be italic*
 
 _This test will be italic_
+***
 
 **This test will be italic**
 
 __This test will be italic__
 
+***
 *You **can** combine them*
 
 * Item 1
