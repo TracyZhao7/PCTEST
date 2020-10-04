@@ -65,7 +65,8 @@ As kayne west said:
 - [ ] todo list
 - [x] done
 
-```
+Pythen code
+Pythen```
 function getBaseLog(x, y) {
   return Math.log(y) / Math.log(x);
 }
