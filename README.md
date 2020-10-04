@@ -63,7 +63,7 @@ As kayne west said:
 \{literal asterisks\}
 
 - [ ] todo list
-- [x] 
+- [x] done
 
 '''javascript
 var x;
