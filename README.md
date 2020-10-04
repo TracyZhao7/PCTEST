@@ -65,15 +65,9 @@ As kayne west said:
 - [ ] todo list
 - [x] done
 
-'''javascript
-var x;
-x = 6;
-document.getElementById("demo").innerHTML = x;
-
-
-
-
-
-
-
+```
+function getBaseLog(x, y) {
+  return Math.log(y) / Math.log(x);
+}
+```
 
