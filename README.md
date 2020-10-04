@@ -23,12 +23,12 @@ _This test will be italic_
 __This test will be italic__
 
 ***
+~~This test will be italic~~
+
 *You **can** combine them*
 
 > Zhao_Pizhu
-
 > Zhao_Pizhu
-
 > Zhao_Pizhu
 
 * Item 1
