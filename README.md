@@ -52,10 +52,6 @@ __This test will be italic__
 
 [![docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Testing Docker")
 
-
-
-
-
 As kayne west said:
 > we're living the future so
 > the present is our past.
@@ -66,8 +62,8 @@ As kayne west said:
 
 \{literal asterisks\}
 
-- [x] @mentions
-- [ ] this is incomplete
+- [ ] todo list
+- [x] 
 
 '''javascript
 var x;
