@@ -48,10 +48,15 @@ __This test will be italic__
 
 [NKUST E-learning](https://elearning.nkust.edu.tw/mooc/index.php)
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+
+
+
+
 As kayne west said:
 > we're living the future so
 > the present is our past.
-
 
 \*literal asterisks\*
 
