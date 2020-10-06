@@ -52,9 +52,9 @@ __This test will be italic__
 
 [![docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Testing Docker")
 
-[![hackmd](https://i.imgur.com/9cgQVqD.png)(https://hackmd.io/features-tw?both)
-
-
+[![hackmd](https://i.imgur.com/9cgQVqD.png)
+<img src="https://github.com/wenh123/2020test/blob/master/logo.png" alt="Your image title" width="250"/>
+ 
 As kayne west said:
 > we're living the future so
 > the present is our past.
